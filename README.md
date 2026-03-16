@@ -31,10 +31,10 @@ Currently I am focusing on **Web Development and Software Development fundamenta
 
 Here are some beginner projects I am working on:
 
-* 🔹 Simple Login Page
-* 🔹 Employee Data Storage Website
-* 🔹 Water Cycle Project Website
-* 🔹 JavaScript Practice Projects (Coming Soon)
+🔹 Simple Login Page
+🔹 Employee Data Storage Website
+🔹 Water Cycle Project Website
+🔹 JavaScript Practice Projects (Coming Soon)
 
 ---
 
