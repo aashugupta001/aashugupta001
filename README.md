@@ -41,8 +41,8 @@ Here are some beginner projects I am working on:
 ## 📈 Learning Roadmap
 
 ✔ HTML
-✔ CSS (Next)
-✔ JavaScript
+✔ CSS 
+✔ JavaScript(Next)
 ✔ Advanced JavaScript
 ✔ Data Structures & Algorithms
 ✔ Software Development Projects
